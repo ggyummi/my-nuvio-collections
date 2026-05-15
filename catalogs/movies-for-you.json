@@ -1,0 +1,27 @@
+{
+      "id": "custom.com_publicmetadb_addon.movie.pmdb_26dczh69tqroplg",
+      "type": "movie",
+      "name": "Movies for you",
+      "enabled": true,
+      "showInHome": true,
+      "source": "custom",
+      "sourceUrl": "https://publicmetadb.com/addon/pm-qSsN9JT7sd0sl7Dug5mgynPJWCTF6N3v0coVShRJf2PioPgnZsNzegXksyaO/catalog/movie/pmdb-26dczh69tqroplg.json",
+      "genres": [],
+      "cacheTTL": 86400,
+      "pageSize": 100,
+      "enableRatingPosters": true,
+      "manifestData": {
+        "type": "movie",
+        "id": "pmdb-26dczh69tqroplg",
+        "name": "Movies for you",
+        "extra": [
+          {
+            "name": "skip",
+            "isRequired": false
+          }
+        ],
+        "idPrefixes": [
+          "tt"
+        ]
+      }
+    }
